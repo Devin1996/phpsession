@@ -1,0 +1,27 @@
+<ul >
+  <li><a class="active" href="MainPage.php">Home</a></li>
+  <li><a href="StudentRegisterPHP.php">Student Registration</a></li>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Employee Registration</a>
+    <div class="dropdown-content">
+      <a href="AcedamicRegisterPHP.php">Acedamic Registration</a>
+      <a href="NAcedamicRegisterPHP.php">NON-Acedamic Registration</a>
+    </div>
+  </li>
+  <li><a href="studentdetails.php">Student Details</a></li>
+
+  
+    <li><a href="empdetails.php" class="dropbtn">Employee Details</a></li>
+
+ 
+   <li><a href="updatepage.php">Update Deatils</a></li>
+   <li><a href="removedata.php">Remove Deatils</a></li>
+   <li><a href="mongo.php">NoSQL Database(Mongo)</a></li>
+   <li><a href="modform.php">Modules</a></li>
+   <li><a href="paymentform.php">Paments</a></li>
+   <li><a href="labform.php">Labs</a></li>
+   <li><a href="tuteform.php">Tutes</a></li>
+   <li><a href="lecform.php">Lectures</a></li>
+
+ 	<li style="float:right"><a href="AdminLoginPHP.php">Admin logout</a></li>
+</ul>
